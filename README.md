@@ -1,8 +1,6 @@
 # 01 HTML CSS Git: Code Refactor
 
-## Your Task
-
-**Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
+## The Task
 
 This week your challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: **accessibility**. 
 
@@ -15,8 +13,6 @@ Even though accessibility is a broad topic that can include complex requirements
 **Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
 
 To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-Are you ready to jump in? Here are this week's challenge requirements:
 
 ### User Story
 
@@ -51,7 +47,7 @@ The following image shows the web application's appearance and functionality:
 
 ### Getting Started
 
-Follow these instructions to create your project and deploy it to GitHub Pages:
+### Instructions to create your project and deploy it to GitHub Pages:
 
 1. Create a new repository on your GitHub account and clone it to your computer.
 
@@ -66,8 +62,6 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
 
 > **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
-
-Be sure to add, commit, and push your work to see the most up-to-date version of your app!
 
 ### Requirements
 
