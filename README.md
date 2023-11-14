@@ -1,5 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
 
+[Link to the deployed page](https://abbyedxcmk.github.io/horiseon-code-refactor/)
+
 ## The Task
 
 This week your challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: **accessibility**. 
@@ -37,13 +39,22 @@ Your website must meet accessibility standards. You can achieve this completing 
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
+### Task Description
+
+- Meta SEO elements added to the head (keywords, Author, Description, etc)
+- div elements changed to sementic html elements (header, nav, main, aside, footer, section)
+- role attribute added to hero div element.
+- aria-label attributes added to a tags.
+- Made necessary changes to css file (.header div -> .header nav)
+- Comments added to html and css.
+
 ### Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+![The Horiseon webpage mockup.](assets/images/mockup.jpg)
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+[Link to the deployed page](https://abbyedxcmk.github.io/horiseon-code-refactor/)
 
 ### Getting Started
 
